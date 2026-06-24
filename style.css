@@ -83,10 +83,10 @@ nav a{
 }
 
 .hero-image img{
-  width:350px;
-  height:350px;
+  width:450px;
+  height: 550px;
   object-fit:cover;
-  border-radius:50%;
+  /* border-radius:10%; */
   border:5px solid var(--accent);
   box-shadow:0 0 40px var(--accent);
 }
@@ -366,8 +366,8 @@ section h2{
   }
 
   .hero-image img{
-    width:250px;
-    height:250px;
+    width:350px;
+    height:450px;
   }
 
   nav{
